@@ -21,7 +21,7 @@ IS and the western journalism; a media hype; a self-reinforcing news process; or
 3.	I will use the graph to compare the data (found at question 2.) with Stefan Geiss’s theory about ‘news waves’. 
 
 ### Hypothesis:
-I choose NRC Handelsblad and New York Times, because they are both liberal, western newspapers. The difference is: one is set in the EU and one in the USA, so there is a difference in the relative geographical distance to the attacks. This might influence coverage on the matter and thereby the form of ‘news waves’ in both newspapers.  
+I chose NRC Handelsblad and New York Times, because they are both liberal, western newspapers. The difference is: one is set in the EU and one in the USA, so there is a difference in the relative geographical distance to the attacks. This might influence coverage on the matter and thereby the form of ‘news waves’ in both newspapers.  
 I think the data analysis on both these newspapers will uncover the way IS related news becomes a media hype in one or both of the newspapers and that the news wave pattern in the EU will be more intense than in the USA before “other” (non-related IS) news will takeover. 
 This may strengthen assumptions like: IS really does have influence on our journalism, so they do get what they wish for; attention. 
 
