@@ -17,7 +17,7 @@ IS and the western journalism; a media hype; a self-reinforcing news process; or
 
 ### Methodology:
 1.	Literature research; define the terms. 
-2.	 I will use R studio to search the metadata of the API’s from NRC Handelsblad and New York Times websites to filter the articles written at the day of the attacks and the six days following each attack. Then I will use RegExr. to form a code which will search the articles per day on the three IS related terms: IS; Isis; Islamic State. The found data will be set out in a graph.
+2.	I will use R studio to search the metadata of the API’s from NRC Handelsblad and New York Times websites to filter the articles written at the day of the attacks and the six days following each attack. Then I will use RegExr. to form a code which will search the articles per day on the three IS related terms: IS; Isis; Islamic State. The found data will be set out in a graph.
 3.	I will use the graph to compare the data (found at question 2.) with Stefan Geiss’s theory about ‘news waves’. 
 
 ### Hypothesis:
@@ -25,3 +25,6 @@ I choose NRC Handelsblad and New York Times, because they are both liberal, west
 I think the data analysis on both these newspapers will uncover the way IS related news becomes a media hype in one or both of the newspapers and that the news wave pattern in the EU will be more intense than in the USA before “other” (non-related IS) news will takeover. 
 This may strengthen assumptions like: IS really does have influence on our journalism, so they do get what they wish for; attention. 
 
+### Dataset:
+We will use articles from the New York Times and NRC Handelsblad. The New York Times has an API that lets you download the articles, which we will use to download the articles from the selected dates. 
+NRC Handelsblad doesn't have an API, but their archive is available on Lexis Nexis. We will use the Lexis Nexis tools to select the articles from the dates we want. We can download these articles in different file formats from their website. This can not be done by an API, but the website is easy to use and the articles can be downloaded fairly quickly.
