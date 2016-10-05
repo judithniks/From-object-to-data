@@ -28,3 +28,5 @@ I chose NRC Handelsblad and New York Times, because they are both liberal, weste
 I think the data analysis on both these newspapers will uncover the way IS related news becomes a media hype in one or both of the newspapers and that the news wave pattern in the EU will be more intense than in the USA before “other” (non-related IS) news will takeover. 
 This may strengthen assumptions like: IS really does have influence on our journalism, so they do get what they wish for; attention. 
 
+### Visualization:
+We will create a line graph to support the findings from our data set. The line graph will be visualized using R and RStudio. 
