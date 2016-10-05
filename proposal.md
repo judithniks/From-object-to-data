@@ -29,4 +29,6 @@ I think the data analysis on both these newspapers will uncover the way IS relat
 This may strengthen assumptions like: IS really does have influence on our journalism, so they do get what they wish for; attention. 
 
 ### Visualization:
-We will create a line graph to support the findings from our data set. The line graph will be visualized using R and RStudio. 
+We will create a line graph to support the findings from our data set. The line graph will be visualized using R and RStudio.
+In our first line graph we will visualize the amount of articles written a week after the attacks from ISIS. We are looking four attacks in total. In our second graph we will visualize if these articles refer to prior attacks. We will also make a third conclusive graph that puts all outr data together as conclusion. 
+
