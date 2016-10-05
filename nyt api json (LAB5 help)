@@ -9,3 +9,12 @@ api.nytimes.com/svc/search/v2/articlesearch.json?q="isis"&begin_date=20150107&en
 
 the json - csv converter: 
 https://konklone.io/json/
+
+save fife 
+
+loading the csv file into R: 
+file<-file.choose() 
+isis_nyt <- read.csv(file, sep =",", header = TRUE)
+
+names(isis_nyt) - shows you all 89 (or whatever) variables
+isis_nyt$web_url - shows you all the web urls of the articles (can change the variable to see)
