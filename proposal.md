@@ -16,9 +16,12 @@ IS and the western journalism; a media hype; a self-reinforcing news process; or
 3.	Does one of Stefan Geiss’ types of a ‘news wave’ fit the found pattern? 
 
 ### Methodology:
-1.	Literature research; define the terms. 
-2.	 I will use R studio to search the metadata of the API’s from NRC Handelsblad and New York Times websites to filter the articles written at the day of the attacks and the six days following each attack. Then I will use RegExr. to form a code which will search the articles per day on the three IS related terms: IS; Isis; Islamic State. The found data will be set out in a graph.
-3.	I will use the graph to compare the data (found at question 2.) with Stefan Geiss’s theory about ‘news waves’. 
+1.	Defining the search terms: we chose to work with article keywords "Isis", "IS", "Islamic State" and the corresponding term used in the East: "daesh";
+2.	Obtaining the articles corresponding to the three chosen time periods (of three different attacks carried by ISIS) using NYT API, and LexusNexus archive for the NRC Handelsblad (running command line);
+3. Refining and organizing data using R Studio, arranging the articles corresponding to the publication date and comparing it to Geiss's News Waves theory;
+4. Using regular expressions, exploring the articles further for any additional conclusionsons on the Western news coverage of the three attacks;
+5. Visualising the different findings using R Studio's ggplot.
+
 
 ### Hypothesis:
 I chose NRC Handelsblad and New York Times, because they are both liberal, western newspapers. The difference is: one is set in the EU and one in the USA, so there is a difference in the relative geographical distance to the attacks. This might influence coverage on the matter and thereby the form of ‘news waves’ in both newspapers.  
