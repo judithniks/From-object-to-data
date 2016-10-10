@@ -27,6 +27,7 @@ IS and the western journalism; a media hype; a self-reinforcing news process; or
 3. Refining and organizing data using R Studio, arranging the articles corresponding to the publication date and comparing it to Geiss's News Waves theory;
 4. Using regular expressions, exploring the articles further for any additional conclusionsons on the Western news coverage of the three attacks;
 5. Visualising the different findings using R Studio.
+
 > This is all fine.
 
 ### Hypothesis:
