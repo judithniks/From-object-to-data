@@ -5,3 +5,9 @@ namefordataset <- do.call(rbind, foo );
 
 add all the dataset names in between data.frame and save it in foo 
 then run the second command
+
+
+
+Export dataset:
+
+write.table(mydata, "c:/mydata.txt", sep="\t")
