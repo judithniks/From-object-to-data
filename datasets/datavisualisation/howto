@@ -1,0 +1,5 @@
+# count the articles by using the date column
+tellentest <- count(brussels, "DATE")
+
+# write dataset to text file seperated by tabs to be able to use it later
+write.table(tellentest, "c:/brusselscount.txt", sep="\t")
