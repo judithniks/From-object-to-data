@@ -1,0 +1,7 @@
+Merge multiple datasets vertically:
+
+foo <- list(data.frame(...), data.frame(...), data.frame(...));
+namefordataset <- do.call(rbind, foo );
+
+add all the dataset names in between data.frame and save it in foo 
+then run the second command
