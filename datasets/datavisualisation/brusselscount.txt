@@ -1,0 +1,8 @@
+"DATE"	"freq"
+"1"	"22 maart 2016 dinsdag"	1
+"2"	"30 maart 2016 woensdag"	1
+"3"	"23 maart 2016 woensdag"	2
+"4"	"24 maart 2016 donderdag"	2
+"5"	"25 maart 2016 vrijdag"	3
+"6"	"29 maart 2016 dinsdag"	3
+"7"	"26 maart 2016 zaterdag"	4
