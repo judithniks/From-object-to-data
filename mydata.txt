@@ -1,0 +1,26 @@
+"�..BYLINE"	"DATE"	"DATELINE"	"HEADLINE"	"LENGTH"	"PUBLICATION"	"SECTION"	"TITLE"	"X"
+"1"	"Door onze correspondent"	"7 januari 2015 woensdag"	NA	"Turkije Eén dode bij zelfmoordaanslag in centrum Istanbul"	"201 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 2"	NA	NA
+"2"	"Door onze correspondent Marloes de Koning"	"7 januari 2015 woensdag"	NA	"Gepakt door Turkse politie, 'maar ik deed niks illegaals'"	"655 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 2"	NA	NA
+"3"	"Hans de GrootNiels Spierings , universitair docent politieke sociologie (RU) A.H. Brandt Corstius"	"7 januari 2015 woensdag"	NA	"Adenauer wilde ook niet"	"423 woorden"	"NRC Handelsblad"	"Opinie; Blz. 9"	NA	NA
+"4"	"Door onze correspondent Peter Vermaas"	"8 januari 2015 donderdag"	NA	"Gekwetste Republiek zoekt troost bij eigen idealen; Uitnodiging aan rivalen"	"1408 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 2"	NA	NA
+"5"	"Door onze redacteur Andreas Kouwenhoven"	"8 januari 2015 donderdag"	NA	"Nederland steunt strijd tegen IS en 'is dus mogelijk doelwit'; Aanslag met een boodschap"	"837 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 6"	NA	NA
+"6"	""	"8 januari 2015 donderdag"	NA	"Le Figaro"	"977 woorden"	"NRC Handelsblad"	"Opinie; Blz. 8"	NA	NA
+"7"	"Carolien Roelants"	"9 januari 2015 vrijdag"	NA	"Is deze vorm van terrorisme ooit te verslaan?; Olympische Spelen in 1972"	"865 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 3"	NA	NA
+"8"	"Toon Beemsterboer"	"9 januari 2015 vrijdag"	NA	"Is de aanslag het werk van Al-Qaeda?; Charismatische geestelijke"	"802 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 3"	NA	NA
+"9"	"h.j.a. hofland"	"9 januari 2015 vrijdag"	NA	"Na Charlie Hebdo: een wankelend Westen"	"585 woorden"	"NRC Handelsblad"	"Opinie; Blz. 8"	NA	NA
+"10"	"Door Inge Janse"	"9 januari 2015 vrijdag"	NA	"Stadsinitiatief kwam, zag en... verdween; 165.000 bezoekers schaatsbaan"	"1295 woorden"	"NRC Handelsblad"	"Rotterdam; Blz. 38"	NA	NA
+"11"	"Door onze verslaggever Stéphane Alonso"	"10 januari 2015 zaterdag"	NA	"Nooit gebeurde er wat bij benzinepomp: tot vrijdag"	"1087 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 3"	NA	NA
+"12"	"Mark Beunderman foto's Katrijn van Giel"	"10 januari 2015 zaterdag"	NA	"'We laten te veel gebeuren in Frankrijk'; Halte Bezannes - Gare Champagne TGV"	"1562 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 5"	NA	NA
+"13"	"Door onze correspondent Peter Vermaas"	"12 januari 2015 maandag"	NA	"Daders kenden elkaar al tien jaar"	"847 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 5"	NA	NA
+"14"	"Door onze correspondent Peter Vermaas"	"12 januari 2015 maandag"	NA	"Politie volgde de drie daders - tot vorige lente; Syriëgangers"	"790 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 5"	NA	NA
+"15"	"Door onze redacteur Wilfred Takken"	"12 januari 2015 maandag"	NA	"Zelfs het doorgezakte IKEA-bankje is echt"	"1130 woorden"	"NRC Handelsblad"	"Media; Blz. 23"	NA	NA
+"16"	"Door onze correspondent Guus Valk"	"13 januari 2015 dinsdag"	NA	"Hack legercommando pr-nederlaag VS"	"513 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 2"	NA	NA
+"17"	""	"13 januari 2015 dinsdag"	NA	"Canada arresteert terreurverdachten"	"307 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 4"	NA	NA
+"18"	"Carolien Roelants"	"13 januari 2015 dinsdag"	NA	"Dwars - De gedwongen recruiter van de kalief"	"478 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 8"	NA	NA
+"19"	"Sebastien Valkenberg"	"13 januari 2015 dinsdag"	NA	"Nee, godsdienst valt niet zomaar vrij te pleiten"	"1050 woorden"	"NRC Handelsblad"	"Opinie; Blz. 9"	NA	NA
+"20"	""	"14 januari 2015 woensdag"	NA	"Coulibaly wilde wapens kopen in België"	"313 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 5"	NA	NA
+"21"	"Door onze correspondent Derk Walters"	"14 januari 2015 woensdag"	NA	"Begrafenis in Israël is emotie én harde politiek; Aliyah"	"825 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 5"	NA	NA
+"22"	""	"15 januari 2015 donderdag"	NA	"Koos van Dam wordt speciaal gezant Syrië"	"135 woorden"	"NRC Handelsblad"	"Binnenland; Blz. 4"	NA	NA
+"23"	"Door onze redacteur Toon Beemsterboer"	"15 januari 2015 donderdag"	NA	"Hoe het terreurfiliaal Jemen terrein wint in strijd 'tegen misdaden van westerse landen'; Geboorteland Bin Ladens vader"	"967 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 7"	NA	NA
+"24"	""	"15 januari 2015 donderdag"	NA	"Koos van Dam wordt speciaal gezant Syrië"	"135 woorden"	"NRC Handelsblad"	"Binnenland; Blz. 4"	NA	NA
+"25"	"Door onze redacteur Toon Beemsterboer"	"15 januari 2015 donderdag"	NA	"Hoe het terreurfiliaal Jemen terrein wint in strijd 'tegen misdaden van westerse landen'; Geboorteland Bin Ladens vader"	"967 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 7"	NA	NA
