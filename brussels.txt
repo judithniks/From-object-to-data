@@ -1,0 +1,17 @@
+"ï..BYLINE"	"DATE"	"DATELINE"	"HEADLINE"	"LENGTH"	"PUBLICATION"	"SECTION"	"TITLE"	"X"
+"1"	"Door onze correspondentenStéphane Alonso en Tijn Sadée"	"22 maart 2016 dinsdag"	NA	"Terreur treft hart van de EU  ;Vele doden bij dubbele terreuraanslag in Brussel     Luchthaven en metro doelwit    Vliegverkeer in veel landen gestremd Maatregelen in heel Europa"	"606 woorden"	"NRC Handelsblad"	"Voorpagina; Blz. NH_NL01_001"	NA	NA
+"2"	"Door een onzer redacteuren"	"30 maart 2016 woensdag"	NA	"IS De terreur in Europa is door Islamitische Staat al voorbereid vóór het kalifaat bestond  schrijft The New York Times."	"609 woorden"	"NRC Handelsblad"	"Voorpagina; Blz. 1"	NA	NA
+"3"	"Door onze redacteurToon Beemsterboer"	"23 maart 2016 woensdag"	NA	"Aanslagen IS bedoeld  om  te ontregelen "	"819 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 12-13"	NA	NA
+"4"	"Door onze correspondentPeter Vermaas"	"23 maart 2016 woensdag"	NA	"Terreurbroers in beeld als daders  "	"818 woorden"	"NRC Handelsblad"	"Voorpagina; Blz. 1"	NA	NA
+"5"	"Toon BeemsterboerPeter Vermaas"	"24 maart 2016 donderdag"	NA	"Hoe ziet het Brusselse netwerk van terroristen eruit?"	"585 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 4-5"	NA	NA
+"6"	"Floris van Straaten"	"24 maart 2016 donderdag"	NA	"Hoe reageert de wereld op 'Brussel'?  "	"582 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 10"	NA	NA
+"7"	"Toon Beemsterboer"	"25 maart 2016 vrijdag"	NA	"Waarom zijn er geen grote aanslagen in Amerika?"	"280 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 12-13"	NA	NA
+"8"	"Floris van Straaten"	"25 maart 2016 vrijdag"	NA	"Komt er nu een  Derde Wereldoorlog?"	"289 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 12-13"	NA	NA
+"9"	"Door een onzer redacteuren"	"25 maart 2016 vrijdag"	NA	"Assad start offensief tegen IS in Palmyra "	"267 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 4-5"	NA	NA
+"10"	""	"29 maart 2016 dinsdag"	NA	"Gevaarlijke tijden, niet alleen om de terreur; Dwars"	"527 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 14-15"	NA	NA
+"11"	"Door onze redacteurToon Beemsterboer"	"29 maart 2016 dinsdag"	NA	" Na Palmyra ruikt Assad zijn kans "	"921 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 12-13"	NA	NA
+"12"	""	"29 maart 2016 dinsdag"	NA	"Egyptisch toestel gekaapt, mogelijk een bom aan boord"	"317 woorden"	"NRC Handelsblad"	"Voorpagina; Blz. 1"	NA	NA
+"13"	"Door een onzer redacteuren"	"26 maart 2016 zaterdag"	NA	"VS claimen dood financiÃ«le topman IS "	"508 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 2-3"	NA	NA
+"14"	"Caroline de Gruyter"	"26 maart 2016 zaterdag"	NA	"De zelfmoordenaars weten waar zij heen willen. Wij niet; In Europa"	"632 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 10-11"	NA	NA
+"15"	"Door onze correspondentGert van Langendonck"	"26 maart 2016 zaterdag"	NA	"Politie pakt in drie landen verdachten op"	"1369 woorden"	"NRC Handelsblad"	"In het nieuws; Blz. 4-5"	NA	NA
+"16"	"Anton Mullink Lambert Quant Harm Schut"	"26 maart 2016 zaterdag"	NA	"           Terreur in Brussel Consequent seculier denken is het begin van 'echte lente'"	"479 woorden"	"NRC Handelsblad"	"Opinie & Debat; Blz. NH_NL02_010"	NA	NA
