@@ -1,0 +1,9 @@
+"DATE"	"freq"
+"1"	"November 13, 2015 Friday"	12
+"2"	"November 14, 2015 Saturday"	10
+"3"	"November 15, 2015 Sunday"	25
+"4"	"November 16, 2015 Monday"	19
+"5"	"November 17, 2015 Tuesday"	28
+"6"	"November 18, 2015 Wednesday"	31
+"7"	"November 19, 2015 Thursday"	21
+"8"	"November 20, 2015 Friday"	19
