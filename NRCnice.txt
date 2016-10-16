@@ -1,0 +1,22 @@
+"X...BYLINE"	"DATE"	"DATELINE"	"HEADLINE"	"LENGTH"	"PUBLICATION"	"SECTION"	"TITLE"	"X"
+"1"	""	"14 July 2016"	""	" Pokémon-jager veroorzaakt enorm verkeersongeluk "	"200 woorden"	"NRC Handelsblad"	"Media; Blz. 10"	NA	NA
+"2"	"Juurd Eijsvoogel"	"14 July 2016"	"BERLIJN. "	"Duitsland wil militaire rol vergroten"	"763 woorden"	"NRC Handelsblad"	"Sport; Blz. 14"	NA	NA
+"3"	""	"15 July 2016"	"Amsterdam. "	"Islamitische StaatIS haalt Syrisch gevechtstoestel neer bij oostelijk Deir al-Zor"	"126 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 12"	NA	NA
+"4"	"Joeri Boom"	"15 July 2016"	"NEW DELHI. "	"Strijd ontbrandt na Wani s dood"	"863 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 12"	NA	NA
+"5"	"Toon Beemsterboer"	"15 July 2016"	"Amsterdam. "	"Een aanslag van dodelijke eenvoud"	"809 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 6"	NA	NA
+"6"	""	"15 July 2016"	"Amsterdam. "	"Aanslag met truck op viering van Franse eenheid"	"456 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 1"	NA	NA
+"7"	"Peter Vermaas"	"15 July 2016"	"Nice "	"Frankrijk spreekt na nieuwe aanslag van oorlog"	"1205 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 4"	NA	NA
+"8"	""	"16 July 2016"	""	"Wat er gebeurde bij de aanslag in Nice"	"260 woorden"	"NRC Handelsblad"	"Binnenland; Blz. 6"	NA	NA
+"9"	"Eva Cukier"	"16 July 2016"	"Amsterdam. "	" Agressief, depressief en zeer op zichzelf "	"606 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 6"	NA	NA
+"10"	"Peter Vermaas"	"18 July 2016"	"Nice "	"Was de dader jihadist, gestoord of allebei?"	"948 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 8"	NA	NA
+"11"	"Floris van Straaten"	"18 July 2016"	"Amsterdam. "	"NAVO steunt Erdogan koeltjes"	"850 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 6"	NA	NA
+"12"	"Marloes de Koning"	"18 July 2016"	"Istanbul "	"Genadeklap voor trots Turkse leger"	"655 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 6"	NA	NA
+"13"	"Guus Valk"	"18 July 2016"	"Cleveland. "	"Trump belooft  een show die je niet eerder hebt gezien "	"800 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 14"	NA	NA
+"14"	""	"18 July 2016"	"Amsterdam. "	"Islamitische staatMilitanten in burger vermoorden Koerden"	"105 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 14"	NA	NA
+"15"	"Peter Vermaas"	"19 July 2016"	"Parijs "	"Franse politici bevechten elkaar met oorlogstaal"	"1261 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 8"	NA	NA
+"16"	"Juurd Eijsvoogel"	"19 July 2016"	"Berlijn. "	"Aanslag met bijl in trein schrikt Duitsland op"	"530 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 2"	NA	NA
+"17"	"Floris van Straaten"	"20 July 2016"	"Amsterdam. "	"Turks leger is verdeeld en verward"	"903 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 8"	NA	NA
+"18"	""	"20 July 2016"	"Parijs. "	"LibiëDrie Franse militairen omgekomen bij geheime operatie bij Benghazi"	"129 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 3"	NA	NA
+"19"	""	"21 July 2016"	""	"Een gemis, dat er nu geen talkshows zijn"	"449 woorden"	"NRC Handelsblad"	"Media; Blz. 10"	NA	NA
+"20"	"Christiaan Weijts"	"21 July 2016"	""	"Islamitische Staat is een auto-immuunziekte geworden"	"505 woorden"	"NRC Handelsblad"	"Opinie; Blz. 16"	NA	NA
+"21"	"Peter Vermaas"	"21 July 2016"	"Parijs "	"Wat voeren Franse militairen uit in Libië?"	"523 woorden"	"NRC Handelsblad"	"Buitenland; Blz. 12"	NA	NA
