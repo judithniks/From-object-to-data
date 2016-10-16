@@ -1,3 +1,5 @@
+library(plyr)
+
 # count the articles by using the date column
 tellentest <- count(brussels, "DATE")
 
