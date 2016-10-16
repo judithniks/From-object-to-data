@@ -1,0 +1,37 @@
+"X...BYLINE"	"DATE"	"DATELINE"	"HEADLINE"	"LENGTH"	"PUBLICATION"	"SECTION"	"TITLE"	"X"
+"1"	"Peter Vermaas"	"14 november 2015 zaterdag"	NA	"  Frans horrorscenario komt uit"	"867 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"2"	"caroline de gruyter"	"14 november 2015 zaterdag"	NA	"De hoge prijs van regime change in Syrië "	"614 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"3"	""	"16 november 2015 maandag"	NA	"Aanslagen  vergen krachtige maar ook rationele reactie.."	"452 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"4"	""	"16 november 2015 maandag"	NA	"'Ik dacht eerst dat het bij de show hoorde'"	"1369 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"5"	"Toon Beemsterboer"	"16 november 2015 maandag"	NA	" IS lijkt vizier op Europa te richten"	"760 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"6"	"Annemarie Kas"	"16 november 2015 maandag"	NA	"Nu zegt Rutte het ineens wel: Nederland is in oorlog met IS "	"563 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"7"	"René Moerland"	"16 november 2015 maandag"	NA	"Syrië wordt steeds meer  ook een Europese oorlog"	"812 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"8"	""	"16 november 2015 maandag"	NA	"[De Iraakse inlichtingendiensten hebben landen van ...]*"	"255 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"9"	""	"16 november 2015 maandag"	NA	"[Na 'Parijs' zien wij geen politieke ruimte meer om...]*"	"84 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"10"	""	"16 november 2015 maandag"	NA	"[Frankrijk heeft zondag in reactie op de aanslagen ...]*"	"132 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"11"	""	"17 november 2015 dinsdag"	NA	"Overhaaste militaire actie  geen oplossing voor terrorisme"	"433 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"12"	""	"17 november 2015 dinsdag"	NA	"[Toon BeemsterboerHoe heeft  Islamitische Staat zic...]*"	"1167 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"13"	""	"17 november 2015 dinsdag"	NA	"[Folkert JensmaEmilie van OuterenWat betekent het d...]*"	"521 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"14"	""	"17 november 2015 dinsdag"	NA	"[Annemarie Kas Zitten er terroristen  onder de vluc...]*"	"467 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"15"	""	"17 november 2015 dinsdag"	NA	"[Militaire denkers VS adviseren troepen op de grond...]*"	"584 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"16"	""	"17 november 2015 dinsdag"	NA	"[President Obama verwees gisteren tijdens de G20  i...]*"	"150 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"17"	""	"17 november 2015 dinsdag"	NA	"[Frankrijk manifesteert zich  nadrukkelijker met in...]*"	"541 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"18"	""	"17 november 2015 dinsdag"	NA	"'We zegevierden over geduchtere vijanden'"	"987 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"19"	"Peter Vermaas"	"17 november 2015 dinsdag"	NA	"Staat Frankrijk er nu alleen voor?"	"640 woorden"	"NRC Handelsblad"	"Voorpagina; Blz. 1"	NA	NA
+"20"	""	"17 november 2015 dinsdag"	NA	"[De Franse regering wil bij  alle treinstations in ...]*"	"132 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"21"	"Youssef Azghari"	"17 november 2015 dinsdag"	NA	" Wat moslims moeten met IS"	"575 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"22"	"Roger Cohen"	"17 november 2015 dinsdag"	NA	"Om Parijs te redden, moeten we  IS verslaan"	"1268 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"23"	"Hubert Smeets"	"18 november 2015 woensdag"	NA	"    'Parijs' haalt Poetin uit zijn isolement"	"1192 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"24"	"Floris van Straaten"	"18 november 2015 woensdag"	NA	"Was hij het meesterbrein? "	"954 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"25"	""	"18 november 2015 woensdag"	NA	"[President Poetin van Rusland heeft een staatscommi...]*"	"264 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"26"	"Marjolijn van Oordt"	"18 november 2015 woensdag"	NA	"brieven"	"364 woorden"	"NRC Handelsblad"	"opinie"	NA	NA
+"27"	"Caroline de Gruyter"	"19 november 2015 donderdag"	NA	"Liefde. Dat helpt tegen radicalisering"	"1097 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"28"	"Ewoud Sanders"	"19 november 2015 donderdag"	NA	"Moet koud worden gegeten: wraak ; Woordhoek"	"512 woorden"	"NRC Handelsblad"	"Achterpagina; Blz. 20"	NA	NA
+"29"	""	"19 november 2015 donderdag"	NA	"[Woede China en Noorwegen na executies China heeft ...]*"	"284 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"30"	"Door een onzer redacteuren"	"19 november 2015 donderdag"	NA	"Leiders van IS halen hun familie weg uit Raqqa"	"543 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"31"	"Door een onzer redacteur"	"19 november 2015 donderdag"	NA	"  Huisblad IS pocht over bom op Airbus"	"343 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"32"	"Nicolas Hénin"	"19 november 2015 donderdag"	NA	"Ik was gegijzeld door IS.  Ze zijn eerder stom dan slecht"	"1250 woorden"	"NRC Handelsblad"	"opinie"	NA	NA
+"33"	""	"20 november 2015 vrijdag"	NA	"           Koerden Nederland stuurt peshmerga's wapens voor strijd tegen IS "	"106 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"34"	"Juurd Eijsvoogel"	"20 november 2015 vrijdag"	NA	"Twee lepeltjes humor is niet genoeg tegengif"	"627 woorden"	"NRC Handelsblad"	"Buitenland"	NA	NA
+"35"	"Annemarie Kas"	"20 november 2015 vrijdag"	NA	"Den Haag vestigt hoop op wijkagent "	"829 woorden"	"NRC Handelsblad"	"In het nieuws"	NA	NA
+"36"	"Niels Roelen"	"20 november 2015 vrijdag"	NA	"Moderne Blitzkrieg IS geeft ons het nakijken"	"1063 woorden"	"NRC Handelsblad"	"opinie"	NA	NA
