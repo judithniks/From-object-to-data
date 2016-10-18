@@ -6,4 +6,3 @@
 "5"	"12 januari 2015 maandag"	3
 "6"	"13 januari 2015 dinsdag"	4
 "7"	"14 januari 2015 woensdag"	2
-"8"	"15 januari 2015 donderdag"	4
