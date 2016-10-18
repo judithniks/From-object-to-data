@@ -6,4 +6,3 @@
 "5"	"July 18, 2016 Monday"	6
 "6"	"July 19, 2016 Tuesday"	6
 "7"	"July 20, 2016 Wednesday"	11
-"8"	"July 21, 2016 Thursday"	8
