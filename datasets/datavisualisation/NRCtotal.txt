@@ -1,0 +1,8 @@
+"days"	"Nice"	"Bataclan"	"Charlie Hebdo"	"Brussels/Zaventem"
+"1"	1	2	0	3	1
+"2"	2	5	2	3	2
+"3"	3	2	8	4	2
+"4"	4	5	12	2	3
+"5"	5	2	4	3	4
+"6"	6	2	6	4	3
+"7"	7	3	4	2	1
