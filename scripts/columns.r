@@ -10,7 +10,6 @@ mergecolumns <- function(data1, data2, data3, data4) {
   total2 <- merge(data3, data4, by="days")
   total <- merge(total1, total2, by="days")
   
-  total$days <- NULL
   total$DATE.x.x <- NULL
   total$DATE.y.x <- NULL
   total$DATE.x.y <- NULL
