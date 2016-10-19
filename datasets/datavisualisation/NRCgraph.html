@@ -1,0 +1,142 @@
+<!-- LineChart generated in R 3.3.1 by googleVis 0.6.1 package -->
+<!-- Wed Oct 19 13:04:50 2016 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataLineChartID3a7448b586f () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+"1",
+2,
+0,
+3,
+1
+],
+[
+"2",
+5,
+2,
+3,
+2
+],
+[
+"3",
+2,
+8,
+4,
+2
+],
+[
+"4",
+5,
+12,
+2,
+3
+],
+[
+"5",
+2,
+4,
+3,
+4
+],
+[
+"6",
+2,
+6,
+4,
+3
+],
+[
+"7",
+3,
+4,
+2,
+1
+] 
+];
+data.addColumn('string','days');
+data.addColumn('number','Nice');
+data.addColumn('number','Bataclan');
+data.addColumn('number','Charlie Hebdo');
+data.addColumn('number','Brussels/Zaventem');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartLineChartID3a7448b586f() {
+var data = gvisDataLineChartID3a7448b586f();
+var options = {};
+options["allowHtml"] = true;
+options["width"] = 1000;
+options["height"] = 500;
+options["title"] = "NRC Handelsblad articles";
+options["vAxis"] = {title: 'Amount of articles'};
+options["hAxes"] = [{title:'Days'}];
+options["series"] = {0:{color:'8c8c8c'}, 1:{color:'3399ff'}, 2:{color:'ff6600'}, 3:{color:'ffff00'}};
+
+
+    var chart = new google.visualization.LineChart(
+    document.getElementById('LineChartID3a7448b586f')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartLineChartID3a7448b586f);
+})();
+function displayChartLineChartID3a7448b586f() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartLineChartID3a7448b586f"></script>
+ 
+<!-- divChart -->
+  
+<div id="LineChartID3a7448b586f" 
+  style="width: 1000; height: 500;">
+</div>
